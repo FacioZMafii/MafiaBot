@@ -1,8 +1,11 @@
 {
-  "name": "discord-bot-maker-bot",
-  "author": "Robert Borghese",
+  "name": "MafiaBot",
+  "author": "FacioZMafii",
   "main": "bot.js",
   "version": "1.6.10",
+  "scripts": {
+    "run": "node bot.js"
+  },
   "dependencies": {
     "discord.js": "^12.2.0",
     "fstorm": "latest",
